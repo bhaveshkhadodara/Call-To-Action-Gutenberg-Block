@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Call To Action customizable block
+ * Plugin Name: Call To Action Customizable Block
  * Author: Bhavesh Khadodara
  * Version: 1.1.0
  * License: GPL2+
